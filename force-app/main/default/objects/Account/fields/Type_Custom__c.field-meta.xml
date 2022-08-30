@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Test 3</label>
             </value>
+            <value>
+                <fullName>Test 4</fullName>
+                <default>false</default>
+                <label>Test 4</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
